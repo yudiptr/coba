@@ -1,0 +1,56 @@
+1
+4
+SELLER s1
+SELLER s2
+BUYER b1 10000
+BUYER b2 10000
+2
+s1
+1
+asus 1000 10
+3
+2
+s2
+1
+lenovo 1000 10
+3
+2
+b1
+1
+2
+asus
+2
+asus
+3
+4
+2
+b2
+1
+2
+lenovo
+2
+lenovo
+3
+4
+2
+s1
+2
+3
+2
+s2
+2
+3
+2
+b2
+3
+1
+4
+2
+s1
+2
+3
+2
+s2
+2
+3
+3

@@ -1,0 +1,9 @@
+1. Saya tidak mengalami kesulitan saat instalasi python 
+   dan dalam mengerjakan Lab00.
+2. Saya menilai kemampuan programming saya berkisar 3 dari 5.
+   ini karena saya sudah mengikuti DDP 0 dan beberapa course
+   sehingga saya sudah mengerti basic python. Namun, masih mengalami
+   kesulitan untuk mengimplementasikannya secara besar-besaran.
+3. Ekspektasi saya asdosnya profesional dan dapat menjelaskan dengan baik.
+   Harapan saya untuk asdos semoga asdosnya baik dan willing untuk membatu
+   kami para manusia semester 1 T_T dengan sabar.

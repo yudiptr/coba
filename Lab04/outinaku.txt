@@ -1,0 +1,10 @@
+hello goodbye  
+tes  
+  
+satu (M) dua  
+(H) empat  
+ 
+###############
+Mention :     1
+Hastag  :     1
+Url     :     0
